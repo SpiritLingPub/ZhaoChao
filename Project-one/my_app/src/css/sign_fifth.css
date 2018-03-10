@@ -1,0 +1,96 @@
+#sign_fifth_box{
+    width:60%;
+    height:auto;
+    box-shadow: 0 0 4px #888888;
+    margin:20px auto 0 auto;
+}
+.sign_fifth_title_con{
+    width:100%;
+    margin-top:20px;
+    color:#888888;
+}
+#sign_fifth_title_box{
+    width:94%;
+    margin:0 auto;
+}
+#sign_fifth_title_box h2{
+    padding-top:30px;
+}
+#sign_fifth_complete_box{
+    width:94%;
+    margin:0 auto;
+}
+#sign_fifth_complete_box h4{
+    margin-left:-10px;
+}
+.sign_fifth_complete_con_title{
+    font-weight: 600;
+    margin-top:30px;
+}
+/* .sign_fifth_complete_main_service_con{
+    border-radius: 5%;
+    background-color: rgb(222, 223, 223);
+    margin-right:5px;
+    margin-top:5px;
+    height:25px;
+    line-height: 25px;
+    display: inline-block;
+    cursor: pointer;
+}
+.sign_fifth_complete_main_service_con:hover{
+    background-color: rgb(0, 130, 39);
+    color:white;
+} */
+.sign_fifth_popover{
+    width:18%;
+}
+#sign_fifth_web_con{
+    /*display: none;*/
+}
+.sign_fifth_experience_level_box{
+    display: inline-block;
+    margin:5px 20px 20px 0;
+    box-shadow: 0 0 4px #888888;
+    width:25%;
+    height:auto;
+    border-bottom: 4px solid white;
+    cursor: pointer;
+}
+.sign_fifth_experience_level_icon{
+    display:block;
+    text-align: center;
+    margin:10px auto 10px auto;
+    /* color:rgb(102, 101, 100); */
+    font-size: 1.8em;
+}
+.sign_fifth_experience_level_con{
+    /* color:rgb(102, 101, 100); */
+    text-align: center;
+    margin-bottom: 15px;
+    display: block;
+}
+.sign_fifth_experience_level_box:hover{
+    border-bottom: 4px solid rgb(0, 130, 39);
+    color:rgb(0, 130, 39) !important;
+}
+#sign_fifth_save_box_box{
+    width:100%;
+    height:80px;
+}
+#sign_fifth_save_box{
+    width:20%;
+    height:40px;
+    background-color: rgb(54, 161, 1);
+    box-shadow: 0 0 2px #888888;
+    border-radius: 5%;
+    cursor: pointer;
+    margin-left:3%;
+}
+#sign_fifth_save{
+    color:white;
+    text-align: center;
+    line-height: 40px;
+}
+#sign_fifth_save_box_box a{
+    text-decoration: none;
+}

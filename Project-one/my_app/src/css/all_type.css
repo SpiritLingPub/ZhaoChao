@@ -1,0 +1,121 @@
+#all_type_box{
+    width:70%;
+    margin:0 auto;
+}
+#all_type_list_box{
+    width:100%;
+    box-shadow: 0 0 4px #888888;
+    height: auto;
+}
+.all_type_card_head{
+    display: block;
+    width:130px;
+    height:130px;
+    border-radius: 50%;
+    margin:0 auto;
+}
+.all_type_card_con{
+    display: inline-block;
+    width:70%;
+    padding-left: 3%;
+    color: black;
+}
+.all_type_head_box{
+    width:15%;
+    display: inline-block;
+    float: left;
+}
+.all_type_card_name{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.all_type_card_main_services_type{
+    font-size: 1.5em;
+    font-weight: 600;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis
+}
+.all_type_con{
+    /* padding-right: 30px; */
+}
+.all_type_con_box{
+    height:60px;
+}
+.all_type_con_box p{
+    display: inline-block;
+    padding-right: 5%;
+    width:21%;
+    float: left;
+}
+.all_type_hourly_rate{
+
+}
+.all_type_con_big{
+    font-weight: 600;
+    font-size: 1.1em;
+}
+.all_type_professional{
+    color: rgb(73, 73, 73);
+    font-size: 1.2em;
+}
+.all_type_offer_clients_con{
+    display: inline-block;
+    width:auto;
+    height:30px;
+    background-color: rgb(224, 224, 224);
+    color: rgb(73, 73, 73);
+    border-radius: 5px;
+    margin-right: 15px;
+    line-height: 30px;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.all_type_offer_clients_con:hover{
+    background-color: rgb(0, 131, 41);
+    color: white;
+}
+#all_type_title_box{
+    width: 100%;
+    margin-top:150px;
+}
+#all_type_title{
+    font-size: 2.2em;
+    font-weight: 600;
+    display: inline-block;
+}
+#all_type_title_con{
+    display: inline-block;
+    width:20%;
+    height: 40px;
+    background-color: rgb(55, 160, 0);
+    float: right;
+    margin-right: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#all_type_title_con:hover{
+    background-color: rgb(0, 131, 41);
+}
+#all_type_title_con p{
+    color: white;
+    line-height: 40px;
+    text-align: center;
+    font-size: 1.3em;
+}
+#all_type_list_select_box{
+    height:100px;
+}
+.all_type_list_select{
+    margin-top:20px;
+    width:20%;
+    margin-left: 20px;
+}
+#all_type_pagination_box{
+    height:100px;
+}
+#all_type_pagination_box ul{
+    margin-top:30px;
+    float: right;
+    margin-right: 100px;
+}

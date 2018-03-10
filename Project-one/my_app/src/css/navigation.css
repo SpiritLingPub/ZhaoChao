@@ -1,0 +1,20 @@
+#logo{
+    width:130px;
+    margin-top:7px;
+    margin-right:20px;
+}
+#nav_box{
+    height:80px;
+    margin-bottom: 0px;
+}
+.nav_content{
+    margin-top:17px;
+}
+#post_job{
+    background-color: rgb(55, 160,0);
+    color: white;
+}
+#post_job:hover{
+    background-color: rgb(0, 131, 41);
+    box-shadow: 0px 4px 20px #888888;
+}

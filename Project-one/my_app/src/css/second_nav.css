@@ -1,0 +1,13 @@
+.sec_nav_font a{
+    color: black;
+    margin-left: 38px;
+}
+#sec_nav_box{
+    box-shadow: 0px 5px 5px #888888;
+    width: 100%;
+    position: absolute;
+    background-color: white;
+}
+.first_nav_font{
+    margin-left: 250px;
+}

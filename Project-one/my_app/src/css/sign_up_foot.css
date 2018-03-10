@@ -1,0 +1,42 @@
+#sign_up_foot_box{
+    width:100%;
+    height:auto;
+    background-color: rgb(33, 33, 33)
+}
+.sign_up_foot_ul{
+    list-style: none;
+    display: inline-block;
+    width:25%;
+    /*margin-right:8%;*/
+}
+.sign_up_foot_ul li{
+    color: rgb(94, 89, 79);
+    font-weight: 600;
+}
+#sign_up_foot_list_box{
+    width:60%;
+    margin:0 auto;
+    padding-top:40px;
+}
+.sign_up_foot_img{
+    width:40px;
+    margin:0 auto;
+    display: block;
+}
+#sign_up_foot_img_box{
+    width:20%;
+    margin:40px auto 0 auto;
+}
+#sign_up_foot_foot{
+    margin:20px auto 0px auto;
+    padding-bottom: 20px;
+}
+#sign_up_foot_foot p{
+    text-align: center;
+    color: rgb(94, 89, 79);
+    font-weight: 600;
+}
+#sign_up_foot_img_box div{
+    width:25%;
+    display: inline-block;
+}

@@ -1,0 +1,126 @@
+#get_list_box{
+    width:70%;
+    position: relative;
+    height: 500px;
+    margin:0 auto;
+    overflow: hidden;
+}
+.get_list_row_list_box{
+    position: absolute;
+    width:100%;
+    height: auto;
+}
+.get_list_con{
+    margin:0;
+    display: inline-block;
+    width: 100%;
+}
+#get_list_next_button{
+    position: absolute;
+    box-shadow: 0 0 4px #888888;
+    right:0;
+    top:30%;
+    cursor: pointer;
+    color: rgb(0, 131, 41);
+}
+#get_list_prev_button{
+    position: absolute;
+    box-shadow: 0 0 4px #888888;
+    left:0;
+    top:30%;
+    cursor: pointer;
+    color: rgb(0, 131, 41);
+}
+.get_list_head{
+    width:40%;
+    height: auto;
+    border-radius: 50%;
+    /* margin-top:30px; */
+    display: block;
+    margin:0 auto;
+}
+.get_list_name{
+    font-weight: 600;
+    font-size: 1.6em;
+    text-align: center;
+}
+.get_list_main_services_type{
+    display: block;   
+    white-space: nowrap;  
+    width: 70%;   
+    overflow: hidden;   
+    text-overflow:ellipsis;
+    margin:0 auto 10px auto;
+}
+.get_list_small_title{
+    font-weight: 700;
+    margin-top:10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.get_list_con_box{
+    display: inline-block;
+    float: right;
+    margin-top:10px;
+    margin-bottom: 10px;
+    height: 100%;
+    position: relative;
+}
+.get_list_hourly_rate{
+    font-weight: 700;
+    font-size: 2em;
+}
+.get_list_hr{
+    width: 100%;
+    height:0;
+    border-top:1px solid #ecebeb;
+}
+.get_list_hourly_rate_hr{
+    display: inline-block;
+    height: 100%;
+    
+}
+.get_list_hourly_box{
+    float: right;
+}
+.get_list_offer_clients_con{
+    display: inline-block;
+    margin-right: 10px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5px;
+}
+.get_list_offer_clients_con_box{
+    margin:20px auto 20px auto;
+    width:70%;
+}
+.get_list_view_profile_box{
+    margin:0 auto 30px auto;
+    background-color: rgb(55, 160, 0);
+    height: 40px;
+    width: 60%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.get_list_view_profile{
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-weight: 600;
+
+}
+.get_list_view_profile_box:hover{
+    background-color: rgb(0, 131, 41);
+}
+#get_list_row_list_1{
+    position: absolute;
+}
+#get_list_row_list_2{
+    position: absolute;
+}
+#get_list_row_list_3{
+    position: absolute;
+}
+#get_list_big_title{
+    font-weight: 700;
+    text-align: center;
+}

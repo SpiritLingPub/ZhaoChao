@@ -1,0 +1,82 @@
+#service_level_table{
+    width: 90%;
+    margin-left: 5%;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+.service_level_box{
+    width:25%;
+}
+.service_level_title{
+    color: rgb(183, 183, 183);
+    font-size: 1.8em;
+    font-weight:lighter;
+    margin-bottom: 10%;
+}
+.service_levrl_small{
+    color: rgb(183, 183, 183);
+    margin-bottom: 10%;
+    padding: 0 10% 0 10%;
+    font-size: 1.2em;
+    text-align: center;
+}
+.service_level_big{
+    text-align: center;
+    margin-bottom: 7%;
+}
+.service_level_con{
+    text-align: center;
+    margin-bottom: 4%;
+}
+.service_level_button_box{
+    width:200px;
+    height: 40px;
+    margin-left: 20%;
+    margin-top:3%;
+    margin-bottom:7%;
+    border: 3px solid rgb(224,224,224);
+    line-height: 35px;
+    text-align: center;
+    color: rgb(91, 188, 46);
+    cursor: pointer;
+}
+.service_level_button_box:hover{
+    border: 3px solid rgb(0,131,41);
+    color:rgb(0,131,41);
+}
+
+#service_level_box_0{
+    border: 0px none !important;
+}
+#service_level_box_1{
+    border-top: 10px solid rgb(176, 228, 79) !important;
+}
+#service_level_box_2{
+    border-top: 10px solid rgb(111, 218, 68) !important;
+}
+#service_level_box_3{
+    border-top: 10px solid rgb(55, 160, 0) !important;
+}
+.service_level_yes{
+    height: 25px;
+}
+.server_level_yes_box{
+    height: 50px;
+    width:100%;
+    /* display: table-cell; */
+    text-align: center;
+    line-height: 50px;
+}
+.service_level_lefttitle{
+    font-size:14px;
+    font-weight: 700;
+    width:85%;
+    margin-left:5%;
+}
+#service_level_fixed{
+    width:1366px;
+}
+#service_level_fixed .service_level_fixed_box{
+    background-color: white;
+    width:343px;
+}

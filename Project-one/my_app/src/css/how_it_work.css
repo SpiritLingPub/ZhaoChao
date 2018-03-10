@@ -1,0 +1,39 @@
+.how_work_box{
+    position: relative;
+    height:300px;
+}
+.how_work_img{
+    height: 150px;
+    position: absolute;
+    left: 0; right: 0;
+    margin:auto;
+}
+.how_work_line{
+    width:100px;
+    height: 0px;
+    border: 2px solid rgb(178, 178, 178);
+    position: absolute;
+    left: 0; right: 0; top:180px;
+    margin:auto;
+}
+.how_work_h{
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    left: 0; right: 0; top:200px;
+    margin:auto;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.how_work_con{
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    left: 0; right: 0; top:230px;
+    margin:auto;
+    font-size: 1.2em;
+}
+#how_work_h1{
+    text-align: center;
+    font-weight:780;
+}

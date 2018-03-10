@@ -1,0 +1,45 @@
+.add_education_con_title{
+    font-weight: 700;
+    margin-top:25px;
+}
+.add_education_modal_box .ant-modal-body{
+    padding:0 !important;
+}
+#add_education_box{
+    padding-left: 35px;
+    padding-right:35px;
+}
+#add_education_from_years{
+    width:40%;
+}
+#add_education_description_box{
+    height:100px;
+}
+.add_education_button{
+    display: inline-block;
+    margin:25px 20px 25px 0px;
+    font-weight: 700;
+    cursor: pointer;
+}
+#add_education_save{
+    width:12%;
+    height:40px;
+    box-shadow: 0 0 2px #888888;
+    background-color: rgb(55, 160,0);
+    color: white;
+}
+.add_education_button p{
+    display:block;
+    text-align: center;
+    line-height: 40px;
+}
+#add_education_more{
+    width:24%;
+    height:40px;
+    box-shadow: 0 0 2px #888888;
+    /* background-color: rgb(55, 160,0); */
+    color: rgb(55, 160,0);
+}
+#add_education_cancel{
+    color: rgb(55, 160,0);
+}

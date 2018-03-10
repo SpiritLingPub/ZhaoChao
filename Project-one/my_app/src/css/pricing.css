@@ -1,0 +1,48 @@
+#pricing_jumbotron{
+    height: 430px;
+    background-image: url(//www.upwork.com/static/marketing/adquiro-webpack/images/hero-img.b913f592b818.svg);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position-x: center;
+    margin-bottom: 0px;
+}
+#pricing_jumbotron_title{
+    text-align: center;
+    margin-top:60px;
+    font-weight: 700;
+}
+#pricing_jumbotron_con{
+    text-align: center;
+    margin-top:40px;
+}
+#pricing_surprises{
+    width:100%;
+    position: relative;
+}
+#pricing_surprises_box{
+    width:50%;
+    margin-left: 5%;
+}
+#pricing_surprises_title{
+    font-weight: 700;
+}
+#pricing_surprises_con{
+    font-size: 1.1em;
+    margin-top:20px;
+}
+#pricing_surprises_img{
+    position: absolute;
+    right:15%;
+    top:0;
+    height:130%;
+}
+#pricing_collapse_box{
+    width:65%;
+    margin:0 auto;
+}
+#pricing_collapse_title{
+    width:100%;
+    margin-top:30px;
+    margin-bottom:60px;
+    text-align: center;
+}

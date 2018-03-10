@@ -1,0 +1,44 @@
+#sign_fouth_title{
+    text-align: center;
+    margin-top:40px;
+}
+#SuccessImg{
+    width:150px;
+    height: auto;
+    display: block;
+    margin:40px auto 0 auto;
+}
+#sign_fouth_con{
+    text-align: center;
+    margin-top:30px;
+}
+#sign_fouth_choose_box{
+    margin:30px auto 0 auto;
+}
+#sign_fouth_choose_box a{
+    color: rgb(55, 160,0) !important;
+    text-decoration: none;
+}
+#sign_fouth_choose_box p{
+    text-align: center;
+    font-weight: 600;
+    cursor: pointer;
+}
+#sign_fouth_next_box{
+    width:10%;
+    height:40px;
+    background-color: rgb(55, 160,0);
+    color:white;
+    border-radius: 4%;
+    margin: 40px auto;
+    cursor: pointer;
+}
+#sign_fouth_next_con{
+    text-align: center;
+    line-height: 40px;
+    font-weight: 600;
+}
+#sign_fouth_next_box:hover{
+    background-color: rgb(0, 131, 41);
+    box-shadow: 0 0 4px #888888;
+}

@@ -1,0 +1,95 @@
+#sign_second_box{
+    width:550px;
+    height:auto;
+    box-shadow: 0px 0px 5px black;
+    position: relative;
+    margin:0 auto;
+    margin-top:50px;
+}
+#sign_second_title{
+    text-align: center;
+    padding-top:30px;
+}
+#sign_second_choose_project{
+    width: 50%;
+    height: 40px;
+    display: inline-block;
+    border: 2px solid white;
+    text-align: center;
+    line-height: 40px;
+    box-shadow: 0px 0px 2px #888888;
+    cursor: pointer;
+}
+#sign_second_choose_project_con{
+    display: inline-block;
+    text-align: center;
+    font-weight: 600;
+}
+#sign_second_choose_freelancer{
+    width: 50%;
+    height: 40px;
+    display: inline-block;
+    border: 2px solid white;
+    text-align: center;
+    line-height: 40px;
+    box-shadow: 0px 0px 2px #888888;
+    cursor: pointer;
+}
+#sign_second_choose_freelancer_con{
+    display: inline-block;
+    text-align: center;
+    font-weight: 600;
+}
+#sign_second_choose_box{
+    margin:0 auto;
+    padding-top:30px;
+}
+#sign_second_choose_project_box{
+    width:70%;
+    margin:0 auto;
+}
+#sign_second_choose_project:hover{
+    background-color: rgb(55, 160,0);
+    color:white;
+    border: 2px dashed white;
+}
+#sign_second_choose_freelancer:hover{
+    background-color: rgb(55, 160,0);
+    color:white;
+    border: 2px dashed white;
+}
+#sign_second_choose_title{
+    text-align: center;
+    font-weight: 600;
+}
+.sign_second_radio{
+    width: 70%;
+    margin:0 auto !important;
+    font-weight:500;
+    display: block;
+    padding-top:30px;
+}
+#sign_second_next_box{
+    width:20%;
+    height:40px;
+    background-color: rgb(55, 160,0);
+    color:white;
+    border-radius: 4%;
+    margin: 40px auto;
+    cursor: pointer;
+}
+#sign_second_next_con{
+    text-align: center;
+    line-height: 40px;
+    font-weight: 600;
+}
+#sign_second_next_box:hover{
+    background-color: rgb(0, 131, 41);
+    box-shadow: 0 0 4px #888888;
+}
+#sign_second_choose_freelancer_box{
+    width:100%;
+    height:auto;
+    display: none;
+    margin: 0 auto;
+}

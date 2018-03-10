@@ -1,0 +1,60 @@
+#web_dev_jumbotron{
+    background-image: url(//www.upwork.com/static/marketing/adquiro-webpack/images/webdev-abstract-desktop.912aaedbf480.jpg );
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position-x: center;
+    margin-top:30px;
+}
+#web_dev_jumbotron_title{
+    margin-left:10%;
+    margin-top:120px;
+}
+#web_dev_jumbotron_con{
+    margin-left:10%;
+    margin-top:30px;
+}
+#web_dev_jumbotron_button{
+    margin-left:10%;
+    margin-top:30px;
+    width:auto;
+    background-color: rgb(55, 160, 0);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 2px #888888;
+    display: inline-block;
+    line-height: 40px;
+    height: 40px;
+}
+#web_dev_jumbotron_button:hover{
+    background-color: rgb(0, 131, 41)
+}
+#web_dev_in_demand_box{
+    width:84%;
+    margin:0 auto;
+}
+.web_dev_in_demand_con_box{
+    display: inline-block;
+    width:16.6%;
+    height: auto;
+    cursor: pointer;
+}
+.web_dev_img{
+    height:45px;
+    display: block;
+    margin:0 auto;
+}
+.web_dev_line{
+    width:30%;
+    border:1px solid #888888;
+    height:0;
+    margin:20px auto 20px auto;
+}
+.web_dev_con{
+    display: block;
+    text-align: center;
+}
+#web_dev_in_demand_title{
+    text-align: center;
+    font-weight: 700;
+}

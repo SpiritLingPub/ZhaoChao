@@ -1,0 +1,116 @@
+.sign_seventh_submit_box{
+    box-shadow: 0 0 4px #888888;
+    width:100%;
+    height: auto;
+}
+.sign_seventh_submit{
+    width:94%;
+    margin:0 auto;
+}
+#sign_seventh_submit_title{
+    padding-top:30px;
+}
+#sign_seventh_submit_con{
+    font-weight: 600;
+    padding-top:10px;
+}
+#sign_seventh_box{
+    width:60%;
+    margin:30px auto 0 auto;
+}
+.sign_seventh_submit_next_box{
+    width:auto;
+    height:35px;
+    background-color: rgb(66, 161, 8);
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 0 0 4px #888888;
+    cursor: pointer;
+}
+.sign_seventh_submit_next_box p{
+    line-height: 35px;
+}
+.sign_seventh_submit_back_box{
+    width:auto;
+    height:35px;
+    color: rgb(66, 161, 8);
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 0 0 4px #888888;
+    margin-left:3%;
+    margin-bottom:20px;
+}
+.sign_seventh_submit_back_box p{
+    line-height: 35px;
+}
+#sign_seventh_professional_box{
+    width:75%;
+    box-shadow:0 0 4px #888888;
+    margin-top:20px;
+    display: inline-block;
+}
+#sign_seventh_professional_name_box{
+    position: relative;
+}
+#sign_seventh_professional_head{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top:30px;
+}
+.sign_seventh_professional_name{
+    display: inline-block;
+    position: absolute;
+    left:120px;
+    top:30px;
+}
+#sign_seventh_professional_city{
+    position: absolute;
+    left:120px;
+    top:90px;
+}
+#sign_seventh_professional_title{
+    font-size: 1.1em;
+    font-weight: 600;
+    margin-top:30px;
+}
+#sign_seventh_professional_con{
+    width:70%;
+    height: auto;
+    word-break:break-all
+}
+#sign_seventh_professional_hourly_rate{
+    font-weight: 700;
+    font-size: 1.5em;
+    padding-top:5px;
+}
+#sign_seventh_avaliablity_box{
+    display: inline-block;
+    width:20%;
+    float: right;
+    margin-right:2.5%;
+    margin-top:30px;
+}
+.sign_seventh_avaliablity_title{
+    font-weight: 700;
+}
+.sign_seventh_avaliablity_con{
+    color: rgb(129,124,124);
+    font-weight: 600;
+}
+#sign_seventh_siklls_title{
+    margin-top: 30px;
+    padding-top: 23px;
+}
+.sign_seventh_skills_con{
+    display: inline-block;
+    width:auto;
+    height:25px;
+    background-color: rgb(224, 224, 224);
+    color: rgb(59, 59, 59);
+    line-height: 25px;
+    margin-right:10px;
+    border-radius: 5px;
+    font-weight: 600;
+}

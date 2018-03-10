@@ -1,0 +1,47 @@
+.sign_up_right{
+    display: inline-block;
+    margin-top:12px;
+}
+.sign_up_log_in{
+    color: rgb(91, 188, 46);
+    cursor: pointer;
+}
+#sign_up_box{
+    width:500px;
+    height:300px;
+    box-shadow: 0px 0px 5px black;
+    position: relative;
+    margin:0 auto;
+    margin-top:50px;
+}
+/* .sign_up_email{
+    width:70%;
+} */
+.sign_up_email_input{
+    margin-top:10px;
+    width:420px;
+}
+#sign_up_title{
+    padding-top:40px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#sign_up_form{
+    margin:0 auto;
+    padding-left: 40px;
+}
+#sign_up_submit{
+    width:30%;
+    height:40px;
+    background-color: rgb(55, 160,0);
+    color: white;
+    text-align: center;
+    display: block;
+    line-height: 40px;
+    margin:0 auto;
+    margin-top:30px;
+}
+#sign_up_submit:hover{
+    background-color: rgb(0, 131, 41);
+    box-shadow: 0px 4px 20px #888888;
+}

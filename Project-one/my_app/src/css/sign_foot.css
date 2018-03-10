@@ -1,0 +1,19 @@
+#sign_foot_box{
+    width:100%;
+    height:120px;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(73, 73, 73)
+}
+#sign_foot_con1{
+    color: white;
+    text-align: center;
+    margin-top:25px;
+    font-size: 1.2em;
+}
+#sign_foot_con2{
+    color:rgb(118, 118, 118);
+    text-align: center;
+    margin-top:5px;
+    font-size: 1.1em;
+}

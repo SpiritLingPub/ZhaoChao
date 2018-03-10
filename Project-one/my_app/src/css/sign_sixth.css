@@ -1,0 +1,105 @@
+#sign_sixth_box{
+    width:60%;
+    height:auto;
+    box-shadow: 0 0 4px #888888;
+    margin:20px auto 0 auto;
+}
+#sign_sixth_title{
+    text-align: center;
+}
+
+.sign_sixth_first_con{
+    font-size: 0.9em;
+    color: #888888;
+    padding-top:30px;
+    margin-bottom: 0;
+}
+.sign_sixth_small_title{
+    font-weight: 700;
+}
+.sign_sixth_little_box{
+    width:94%;
+    height: auto;
+    margin:0 auto;
+}
+#sign_sixth_avatar_con{
+    display: inline-block;
+    width:50%;
+    position: absolute;
+    right:30%;
+    top:30px;
+}
+#sign_sixth_professional_title_input{
+    margin-top:10px;
+    margin-bottom: 30px;
+    width:40%;
+}
+#sign_sixth_professional_input{
+    width:70%;
+    margin-top:10px;
+    margin-bottom:30px;
+}
+.sign_sixth_hourly_con{
+    color: #888888;
+    padding-top:35px;
+    display: inline-block;
+    font-weight: 600;
+}
+.sign_sixth_hourly_con_box{
+    width:40%;
+    display: inline-block;
+}
+.sign_sixth_hourly_icon_box{
+    width:40%;
+    display: inline-block;
+    float: right;
+}
+.sign_sixth_icon{
+    color:rgb(66, 161, 8);
+    font-weight: 700;
+    font-size: 2em;
+}
+.sign_sixth_hourly_input{
+    width:50%;
+    height:40px;
+    display: inline-block;
+}
+#sign_sixth_money_box{
+    width:65%;
+}
+.sign_sixth_location_input{
+    width:70%;
+    margin-top:10px;
+}
+#sign_sixth_review_box{
+    width:27%;
+    height:40px;
+    background-color: rgb(66, 161, 8);
+    box-shadow: 0 0 2px #888888;
+    border-radius: 5%;
+}
+#sign_sixth_review_box p{
+    color:white;
+    font-weight: 700;
+    line-height: 40px;
+    font-size: 1.1em;
+    text-align: center
+}
+#sign_sixth_review_box a{
+    text-decoration: none;
+}
+.sign_sixth_skills_list{
+    background-color: rgb(223, 225, 225);
+    display: inline-block;
+    color: rgb(53, 59, 64);
+    width:auto;
+    height:25px;
+    line-height: 25px;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.sign_sixth_skills_list:hover{
+    background-color: rgb(66, 161, 8);
+    color: white;
+}

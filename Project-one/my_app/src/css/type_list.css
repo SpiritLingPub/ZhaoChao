@@ -1,0 +1,120 @@
+#type_list_h1{
+    text-align: center;
+    font-weight:780;
+}
+#type_list_box{
+    width: 90%;
+    margin-left: 5%;
+}
+.type_list_table{
+    width:90% !important;
+    margin-left: 5%;
+}
+.type_list_td{
+    height: 180px;
+    padding: 0px !important;
+}
+.type_list_box{
+    width:100%;
+    height:100%;
+    position: relative;
+}
+.type_list_img{
+    height: 50px;
+    margin:auto;
+    position: absolute;
+    left: 0;  right: 0; top:10%;
+}
+.type_list_line{
+    width:100px;
+    height: 0px;
+    border: 2px solid rgb(178, 178, 178);
+    position: absolute;
+    margin:auto;
+    left: 0;  right: 0; 
+    top:50%;
+}
+.type_list_con{
+    display: block;
+    position: absolute;
+    top:60%;
+    text-align: center;
+    margin:auto;
+    left: 0;  right: 0; 
+}
+.type_list_after_con{
+    display:inline-block;
+    width:100%;
+    height:100%;
+    text-align: center;
+    margin-top:30px;
+    color: rgb(91, 188, 46)
+}
+.type_list_before{
+    width:100%;
+    height:100%;
+    position: absolute;
+    background-color: white;
+}
+.type_list_after{
+    position: absolute;
+    width:100%;
+    height:100%;
+    z-index: 2;
+    background-color: white;
+    opacity: 0;
+}
+#type_list_td_1:hover #type_list_after_1{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_2:hover #type_list_after_2{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_3:hover #type_list_after_3{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_4:hover #type_list_after_4{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_5:hover #type_list_after_5{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_6:hover #type_list_after_6{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_7:hover #type_list_after_7{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_td_8:hover #type_list_after_8{
+    opacity: 1;
+    border: 2px solid rgb(91, 188, 46);
+    transition-duration: 0.5s;
+}
+#type_list_all{
+    width:16%;
+    margin-left:42%;
+    height: 40px;
+    border: 3px solid rgb(224,224,224);
+    line-height: 35px;
+    text-align: center;
+    color: rgb(91, 188, 46);
+    cursor: pointer;
+}
+#type_list_all:hover{
+    border: 3px solid rgb(0,131,41);
+    color:rgb(0,131,41);
+}
